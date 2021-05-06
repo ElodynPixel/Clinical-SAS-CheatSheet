@@ -1,0 +1,64 @@
+CDISC #CLINICAL DATA INTERCHANGED STANDARDS CONSORTIUM
+        A GLOBAL MULTIDISIPLANRY NON PROFIT ORGANIZATION ESTABLISHED STAND
+        TO SUPPORT ACQUISITION, SUBMISSION, EXCHANGE AND META DATA.
+        ENABLE INFO SYST TO IMPROVE
+
+--------
+SPEED THE DRUG DEVELOPMENT PROCESS
+CDISC.ORG
+SDTM #STUDY DATA TABULATION MODULE
+ADAM
+-------
+TLF #TABLE LISTING + FIGURES
+
+SDTM
+------
+1.SPECIAL PURPOSE DOMAINS
+        DM ~ DEMOGRAPHIc
+        CO ~ COMIC
+        SV ~ SUBJECT VISITS
+        SE ~ SUBJECT ELEMENTS
+
+2.INTERVENTIONS
+        RX ~ RELATED DOMAINS
+        EX ~ EXPOSURE
+        CM ~ CONCOMITANT MED
+        EC ~ EXPOSURE AS COLLECTED
+        PF ~ PROCEDURES
+        SU ~ SUBSTANCE USED
+ 
+3.EVENTS
+        AD ~ ADVERSE
+        MH ~ MEDICAL HX{History}
+        DS ~ DISPOSITION
+        DV ~ PROTOCOL DEVIATION
+        HO ~ Health Encounters
+        
+4.FINDINGS
+        LB ~ LAB
+        VS ~ VITAL SIGNS
+        PE ~ PHYSICAL EXAMINATION
+        QS ~ QUESTIONARES
+        DO ~ N/A
+        IE ~ INCLUSION + EXCLUSION CRITERIA
+        PK ~ FOLLICAL KINETICS
+        PP ~ FOLLICAL PARAMETERS  
+        TDM ~ TRIAL DESIGN MODELS
+        TA ~ TRIAL ARM
+        TV ~   "   VISITS
+        TI ~   "   INCLUSION
+        TS ~   "   SUMMARY
+        TE ~   "   ELEMENTS
+        TD ~   "   N/A
+        SUPP ~ N/A
+------------------------------------
+           ADAM
+       /         \
+     ADSL        BDS
+   /   |  \
+ADSL ADLB ADVS
+------------------------------------------------------------------------
+TLF #TABLE LISTING + FIGURES
+-------------------------------------------------------------------------
+RAWDATA------>SDTM OUT-------->ADAM OUT----->LISTTG #LISTING TABLE GRAPHS
+-------------------------------------------------------------------------
